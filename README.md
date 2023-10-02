@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning Next.Js and TypeScript,
 - 💞️ I’m looking for job of web Developer,
 -  🚀 Deployed projects
-- 📩 1. https://echoapp.cyclic.cloud/  (Real Time Chat App)
--  🛒 2.https://megamartapp.cyclic.app/  (Fully Functional E-Commerce WebApp)
-- 🏗 3. https://infoweb.cyclic.app/   (Curd MERN App)
+-  🧑‍💻1. https://codemagicapp.vercel.app/  (Code Editor with user dashboard)
+-  📩 2. https://echoapp.cyclic.cloud/  (Real Time Chat App)
+-  🛒 3.https://megamartapp.cyclic.app/  (Fully Functional E-Commerce WebApp)
+-  🏗 4. https://infoweb.cyclic.app/   (Curd MERN App)
 - 📫 How to reach me Gmail: sushilsinghrathore1998@gmail.com
 
 <!---
