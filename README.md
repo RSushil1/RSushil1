@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @RSushil1 : Sushil Singh Rathore
-- 👀 I’m interested in MERN Stack Web Development
-- 🌱 I’m currently learning Next.Js and TypeScript,
-- 💞️ I’m looking for job of web Developer,
+- 👀 I’m a MERN Stack Web Developer
 -  🚀 Deployed projects
 -  🧑‍💻1. https://codemagicapp.vercel.app/  (Code Editor with user dashboard)
 -  📩 2. https://echoapp.cyclic.cloud/  (Real Time Chat App)
